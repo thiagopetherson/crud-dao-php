@@ -10,7 +10,7 @@ Feito com base no curso da B7Web.
 No nosso projeto foi utilizado PHP com PDO e banco de dados MySQL. O mínimo de JS e a estrutura da página em HTML e CSS.
 Tudo feito de forma bem básica para todas as pessoas de todos os níveis pegarem o código. A intenção aqui é o entendimento de todos e o compartilhamento do código. Nada mais que isso. 
 
-Para facilitar, deixeu um arquivo Word com comentário sobre todo o código. 
+Para facilitar, deixeu um arquivo Word (.docx) com comentários sobre todo o código. 
 
 O arquivo b7_web_usuarios.sql do banco de dados (b7_web_usuarios) também segue aqui. Abração e Bom uso !
 
